@@ -8,7 +8,7 @@
 
 3. **Встановити розширення Live Server**: У Visual Studio Code встановіть розширення Live Server для зручного запуску сервера.
 
-   ![Встановлення розширення Live Server](images/live_server_extension.jpg)
+   ![Встановлення розширення Live Server](images/live_server_extension.png)
 
 4. **Запустити сайт з Live Server**: Після встановлення розширення, відкрийте головний HTML або PHP файл вашого проекту, натисніть праву кнопку миші та виберіть "Open with Live Server" для запуску вашого веб-сайту.
 
