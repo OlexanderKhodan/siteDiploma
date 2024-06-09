@@ -8,6 +8,7 @@ h3, h4 {
   font-size: 20px;
   color: #111;
 }
+
 #p12 {
 font-size: 11px;
 color: #A9A9A9;
@@ -16,7 +17,9 @@ margin-bottom: 10px;
 .container {
   padding: 80px 30px;
 }
-
+.pure-container{
+  padding: 0px;
+}
 .person:hover {
   border-color: #f1f1f1;
 }
@@ -101,10 +104,14 @@ margin-bottom: 10px;
 }
 
 .navbar-brand > img {
-  max-height: 120%;
-  height: 120%;
+  max-height: 140%;
+  height: 140%;
   -o-object-fit: contain;
   object-fit: contain;
+}
+.navbar-left{
+  display: block;
+  padding-top: 15px;
 }
 
 .navbar-nav li a:hover {
